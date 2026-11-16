@@ -1,0 +1,84 @@
+[{
+  "_id": "CT001",
+  "_idhoadon": "HD001",
+  "_idhanghoa": "HH001",
+  "soluong": 2
+},
+{
+  "_id": "CT002",
+  "_idhoadon": "HD001",
+  "_idhanghoa": "HH004",
+  "soluong": 3
+},
+{
+  "_id": "CT003",
+  "_idhoadon": "HD002",
+  "_idhanghoa": "HH005",
+  "soluong": 1
+},
+{
+  "_id": "CT004",
+  "_idhoadon": "HD002",
+  "_idhanghoa": "HH006",
+  "soluong": 2
+},
+{
+  "_id": "CT005",
+  "_idhoadon": "HD003",
+  "_idhanghoa": "HH003",
+  "soluong": 2
+},
+{
+  "_id": "CT006",
+  "_idhoadon": "HD003",
+  "_idhanghoa": "HH004",
+  "soluong": 4
+},
+{
+  "_id": "CT007",
+  "_idhoadon": "HD004",
+  "_idhanghoa": "HH001",
+  "soluong": 1
+},
+{
+  "_id": "CT008",
+  "_idhoadon": "HD004",
+  "_idhanghoa": "HH006",
+  "soluong": 3
+},
+{
+  "_id": "CT009",
+  "_idhoadon": "HD005",
+  "_idhanghoa": "HH005",
+  "soluong": 2
+},
+{
+  "_id": "CT010",
+  "_idhoadon": "HD005",
+  "_idhanghoa": "HH006",
+  "soluong": 4
+},
+{
+  "_id": "CT011",
+  "_idhoadon": "HD005",
+  "_idhanghoa": "HH003",
+  "soluong": 1
+},
+{
+  "_id": "CT012",
+  "_idhoadon": "HD006",
+  "_idhanghoa": "HH001",
+  "soluong": 1
+},
+{
+  "_id": "CT013",
+  "_idhoadon": "HD006",
+  "_idhanghoa": "HH003",
+  "soluong": 2
+},
+{
+  "_id": "CT014",
+  "_idhoadon": "HD006",
+  "_idhanghoa": "HH004",
+  "soluong": 3
+}]

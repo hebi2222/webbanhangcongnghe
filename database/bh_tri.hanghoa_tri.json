@@ -1,0 +1,80 @@
+[{
+  "_id": "HH001",
+  "name": "iPhone 17 Pro Max 256GB",
+  "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-17-pro-max_3.jpg",
+  "brand": "Apple",
+  "price": 34999000,
+  "ngaycapnhat": {
+    "$date": "2026-10-27T09:07:14.385Z"
+  }
+},
+{
+  "_id": "HH002",
+  "name": "MacBook Air M2",
+  "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/v/n/vn0d33_1.jpg",
+  "brand": "Apple",
+  "price": 18590000,
+  "ngaycapnhat": {
+    "$date": "2026-10-27T08:50:59.533Z"
+  }
+},
+{
+  "_id": "HH003",
+  "name": "iPad mini 7 2024 5G 128GB",
+  "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/i/p/ipad-mini-7-5g-blue_2.jpg",
+  "brand": "Apple",
+  "price": 20490000,
+  "ngaycapnhat": {
+    "$date": "2026-10-27T08:46:26.420Z"
+  }
+},
+{
+  "_id": "HH004",
+  "name": "AirPods 4",
+  "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/a/i/airpods-4-2.png",
+  "brand": "Apple",
+  "price": 3490000,
+  "ngaycapnhat": {
+    "$date": "2026-10-27T08:44:45.961Z"
+  }
+},
+{
+  "_id": "HH005",
+  "name": "Samsung Galaxy S24 Plus 12GB 256GB",
+  "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung_galaxy_s24_256gb_-_1_1.png",
+  "brand": "Samsung",
+  "price": 16590000,
+  "ngaycapnhat": {
+    "$date": "2026-10-27T09:08:12.995Z"
+  }
+},
+{
+  "_id": "HH006",
+  "name": "Samsung Galaxy A55",
+  "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-a55.png",
+  "brand": "Samsung",
+  "price": 7990000,
+  "ngaycapnhat": {
+    "$date": "2026-10-27T09:06:12.489Z"
+  }
+},
+{
+  "_id": "HH007",
+  "name": "Samsung Galaxy Tab S9 FE",
+  "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/g/a/galaxy_tab_s9_fe_5g_-_1.png",
+  "brand": "Samsung",
+  "price": 9990000,
+  "ngaycapnhat": {
+    "$date": "2026-10-27T09:00:54.164Z"
+  }
+},
+{
+  "_id": "HH008",
+  "name": "Samsung Galaxy Buds FE",
+  "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-buds-fe_1__1.png",
+  "brand": "Samsung",
+  "price": 1490000,
+  "ngaycapnhat": {
+    "$date": "2026-10-27T08:45:16.720Z"
+  }
+}]

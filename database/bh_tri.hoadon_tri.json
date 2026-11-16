@@ -1,0 +1,42 @@
+[{
+  "_id": "HD001",
+  "tenkh": "Nguyen Van An",
+  "ngayhd": {
+    "$date": "2026-10-21T03:00:00.000Z"
+  }
+},
+{
+  "_id": "HD002",
+  "tenkh": "Tran Thi Binh",
+  "ngayhd": {
+    "$date": "2026-10-21T04:00:00.000Z"
+  }
+},
+{
+  "_id": "HD003",
+  "tenkh": "Le Minh Chau",
+  "ngayhd": {
+    "$date": "2026-10-22T03:00:00.000Z"
+  }
+},
+{
+  "_id": "HD004",
+  "tenkh": "Pham Quoc Duy",
+  "ngayhd": {
+    "$date": "2026-10-22T04:00:00.000Z"
+  }
+},
+{
+  "_id": "HD005",
+  "tenkh": "Vo Thi Ha",
+  "ngayhd": {
+    "$date": "2026-10-23T03:00:00.000Z"
+  }
+},
+{
+  "_id": "HD006",
+  "tenkh": "Vu Minh Tri",
+  "ngayhd": {
+    "$date": "2026-10-23T04:00:00.000Z"
+  }
+}]
